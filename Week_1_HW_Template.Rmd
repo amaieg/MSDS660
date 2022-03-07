@@ -1,0 +1,32 @@
+---
+title: "Week 1 HW Template"
+author: "Kellen Sorauf"
+date: "March 2, 2022"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+# load libraries
+```
+
+
+Breif explanation of data and purpose.
+
+Your Hypothesis.
+
+
+```{r data_cleaning}
+
+```
+
+
+```{r EDA}
+
+```
+
+```{r histogram_plot(s)}
+
+```
+
+Explanation of analysis and interpetation of results.
